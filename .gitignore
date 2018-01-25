@@ -1,0 +1,4 @@
+terra
+terra.pub
+*.pass
+.terraform/
